@@ -167,4 +167,10 @@ p{
 .p span{
     font-weight: 900;
 }
-
+#Developer{
+    font-family:"Playfair Display", serif ;
+    font-size: 30px;
+    color: red;
+    font-weight: 900;
+    text-align: center;
+}
