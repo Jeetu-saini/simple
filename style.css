@@ -1,0 +1,170 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(189, 185, 185);
+}
+.nabar{
+    width: 100vw;
+    height: 13vh;
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    align-items: center;
+    background-attachment: fixed;
+    flex-wrap: wrap;
+}
+.flipkart{
+    width: 80px;
+    height: 18px;
+    background-color: white;
+    align-items: flex-start;
+}
+.search input{
+    width: 250px;
+    height: 25px;
+    background-color: rgba(200, 230, 241, 0.685);
+    border-radius: 5px;
+}
+.search input::placeholder{ 
+    color:black;
+
+}
+.nabarlogo{
+    display: flex;
+    justify-content: space-between;
+     flex-direction: row;
+    align-items: center;
+    gap: 55px;
+}
+.login{
+    width: 37px;
+    height: 20px;
+    background-color:white
+}
+.cart{
+    width: 50px;
+    height: 30px;
+    background-color: white;
+}
+.become{
+    width: 50px;
+    height: 30px;
+    background-color: white;
+    font-size: 15px;
+}
+.container{
+    width:100vw;
+    height: 30vh;
+    background-color: white;
+    margin-top:5px ;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.Grocery{
+   width: 70px;
+   height: 70px;
+   display: flex;
+    flex-direction: column;
+}
+.Mobile{
+    width: 70px;
+   height: 70px;
+   display: flex;
+    flex-direction: column;
+}
+.fashion{
+    width: 70px;
+   height: 70px;
+   display: flex;
+    flex-direction: column;
+}
+.Electronics{
+    width: 70px;
+   height: 70px;
+   display: flex;
+    flex-direction: column;
+}
+.Home{
+    width: 70px;
+   height: 70px;
+   display: flex;
+    flex-direction: column;
+}
+.Appliances{
+width: 70px;
+   height: 70px;
+   display: flex;
+    flex-direction: column;
+}
+.Flight{
+    width:70px;
+   height: 70px;
+   display: flex;
+    flex-direction: column;
+
+}
+.hero img{
+    margin-top:5px;
+    width: 100vw;
+}
+.section{
+    width:100vw;
+    height:50vh;
+    background-color: white;
+    margin: auto;
+}
+.section h1{
+    font-size: 20px;
+    font-weight: 900;
+}
+.container1{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.containerbox{
+    font-size: 12px;
+    flex-wrap: wrap;
+}
+.section2{
+    width: 100vw;
+    height: 50vh;
+    background-color: white;
+    margin-top:5px;
+}
+.section2 h1{
+    font-size: 20px;
+    font-weight: 900;
+}
+.container2{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.section3{
+     width: 100vw;
+    height: 50vh;
+    background-color: white;
+    margin-top:5px;
+}
+.section3 h1{
+    font-size: 20px;
+    font-weight: 900;
+}
+.container3{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+p{
+    
+}
+.p span{
+    font-weight: 900;
+}
+
